@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+#divh2Tag {
+    height: 50px;
+    background: red;
+    margin-bottom: 7px;
+}
+
+#p1Tag {
+    font-size: 30px;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+#detailBtn {
+    background-color: orange;
+    border: orange;
+}
+
+#buyBtn {
+    background: green;
+    border: green;
+}
+
+#detailBtn, #buyBtn {
+    margin-bottom: 7px;
+}
+
+#pPrice {
+    color: red;
+}
+
+#aFooter {
+    text-decoration: none;
+}
+
+#pFooter {
+    color: #ffffff;
+}

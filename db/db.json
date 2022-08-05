@@ -1,0 +1,197 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại Samsung"
+    },
+    {
+      "id": 2,
+      "name": "Màn hình, TV Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Ổ cứng Samsung"
+    },
+    {
+      "id": 4,
+      "name": "Máy tính bảng Samsung"
+    },
+    {
+      "id": 5,
+      "name": "Cục sạc Samsung"
+    },
+    {
+      "id": 6,
+      "name": "Laptop Samsung"
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung Galaxy Book Pro 360",
+      "price": "32500000",
+      "image": "https://www.laptopvip.vn/images/ab__webp/thumbnails/1100/900/detailed/26/6457790-sd-www.laptopvip.vn-1637723314.jpg.webp",
+      "detail": "OK",
+      "cate_id": "Laptop",
+      "id": 1
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra",
+      "cate_id": "Điện thoại",
+      "price": "30990000",
+      "detail": "Điện thoại OK",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-White-600x600.jpg",
+      "id": 2
+    },
+    {
+      "name": "Odyssey NEO G9 DQHD",
+      "price": "52240595",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/vn/ls49ag950nexxv/gallery/vn-odyssey-neo-g9-g95na-ls49ag950nexxv-thumb-459531805?$160_160_PNG$",
+      "detail": "Màn hình 49 inch",
+      "cate_id": "Màn hình",
+      "id": 3
+    },
+    {
+      "name": "Samsung Galaxy Tab A7 Lite",
+      "price": "4490000",
+      "image": "https://cdn.tgdd.vn/Products/Images/522/237325/samsung-galaxy-tab-a7-lite-gray-600x600.jpg",
+      "detail": "OK",
+      "cate_id": "Máy tính bảng",
+      "id": 4
+    },
+    {
+      "name": "Samsung EP-T6530N",
+      "price": "1490000",
+      "image": "https://cdn.tgdd.vn/Products/Images/9499/271813/adapter-sac-usb-type-c-pd-65w-samsung-ep-t6530n-thumb-600x600.jpeg",
+      "detail": "OK",
+      "cate_id": "Cục sạc",
+      "id": 5
+    },
+    {
+      "name": "SSD Samsung 870 2TB",
+      "price": "4650000",
+      "image": "https://bizweb.dktcdn.net/thumb/medium/100/329/122/products/870-qvo-01-7c175c47-31f7-43f8-ac99-57a68198fd0c.jpg?v=1638368218000",
+      "detail": "OK",
+      "cate_id": "Ổ cứng",
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "customer_name": "USA A",
+      "customer_address": "USA",
+      "customer_email": "aaa@aaa.com",
+      "customer_phone_number": "0123456789",
+      "created_date": "01/01/1960",
+      "status": "Đã giao hàng",
+      "id": 1
+    },
+    {
+      "customer_name": "USA A",
+      "customer_address": "USA",
+      "customer_email": "aaa@aaa.com",
+      "customer_phone_number": "0123456789",
+      "created_date": "01/01/1960",
+      "status": "Đã giao hàng",
+      "id": 2
+    },
+    {
+      "customer_name": "USA A",
+      "customer_address": "USA",
+      "customer_email": "aaa@aaa.com",
+      "customer_phone_number": "0123456789",
+      "created_date": "01/01/1960",
+      "status": "Đã giao hàng",
+      "id": 3
+    },
+    {
+      "customer_name": "11 abcabc",
+      "customer_address": "aaaaaa",
+      "customer_email": "a@a.com",
+      "customer_phone_number": "0123456789",
+      "created_date": "2022-02-27",
+      "status": "Đang chờ xác nhận",
+      "id": 4
+    },
+    {
+      "customer_name": "aaaaaaa abcabc",
+      "customer_address": "aaaaaa",
+      "customer_email": "a@a.com",
+      "customer_phone_number": "999999999999999999999999999999",
+      "created_date": "2022-02-27",
+      "status": "Đang chờ xác nhận",
+      "id": 5
+    },
+    {
+      "customer_name": "aaaaaaa abcabc",
+      "customer_address": "aaaaaa",
+      "customer_email": "aaa@aaa.com",
+      "customer_phone_number": "999999999999999999999999999999",
+      "created_date": "2022-02-27",
+      "status": "Đang lấy hàng",
+      "id": 6
+    },
+    {
+      "customer_name": "aaaaaaa abcabc",
+      "customer_address": "USA",
+      "customer_email": "a@a.com",
+      "customer_phone_number": "999999",
+      "created_date": "2022-02-27",
+      "status": "Đang chờ xác nhận",
+      "id": 7
+    },
+    {
+      "customer_name": "aaaaaaa abcabc",
+      "customer_address": "aaaaaa",
+      "customer_email": "a@a.com",
+      "customer_phone_number": "999999",
+      "created_date": "2022-02-27",
+      "status": "Đang chờ xác nhận",
+      "id": 8
+    },
+    {
+      "customer_name": "aaaaaaa abcabc",
+      "customer_address": "USA",
+      "customer_email": "a@a.com",
+      "customer_phone_number": "11111111111111111",
+      "created_date": "2022-02-27",
+      "status": "Đang chờ xác nhận",
+      "id": 9
+    }
+  ],
+  "order_details": [
+    {
+      "order_id": 1,
+      "product_id": 1,
+      "quantity": 1,
+      "unit_price": 30000000
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullname": "namnDn",
+      "phone": "0909",
+      "email": "namdn@gmail.com",
+      "age": "44",
+      "gender": "true"
+    },
+    {
+      "id": 3,
+      "fullname": "Bao Bao",
+      "phone": "0905123456",
+      "email": "baobao@gmail.com",
+      "age": "22",
+      "gender": "false"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
